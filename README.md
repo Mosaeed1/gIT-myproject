@@ -1,1 +1,1 @@
-# gIT-myproject
+# Git-myproject
