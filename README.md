@@ -1,1 +1,3 @@
 # Git-myproject
+
+## project notes
